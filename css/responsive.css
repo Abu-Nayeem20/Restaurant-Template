@@ -1,0 +1,341 @@
+/*-=-=-=-=-=-=-=-=-=- 992px Start-=-=-=-=-=-=-=-=-=--=*/
+@media(max-width: 992px) {
+/*-=-=-=-=-=-=-=-=-=- Header Start-=-=-=-=-=-=-=-=-=--=*/
+.menu{
+	right: 5%;
+}
+.header-bottom-right-shape{
+	display: none;
+}
+.res-hesder-text p{
+	font-size: 22px;
+}
+/*-=-=-=-=-=-=-=-=-=- Populer Start-=-=-=-=-=-=-=-=-=--=*/
+.menu-bottom-right-shape{
+	display: none;
+}
+/*-=-=-=-=-=-=-=-=-=- Discount Start-=-=-=-=-=-=-=-=-=--=*/
+.res-top-text{
+	height: 500px;
+	padding: 10;
+}
+.res-top-text h3{
+	font-size: 45px;
+	margin-top: 15px;
+}
+.res-dis-shape{
+	display: none;
+}
+
+
+}
+
+/*-=-=-=-=-=-=-=-=-=- 768px Start-=-=-=-=-=-=-=-=-=--=*/
+@media(max-width: 768px){
+
+/*-=-=-=-=-=-=-=-=-=- Header Start-=-=-=-=-=-=-=-=-=--=*/
+
+.res-logo{
+	width: 200px;
+}
+.res-menu ul li a{
+	padding: 10px;
+}
+.res-hesder-text h1{
+	font-size: 50px;
+}
+.menu{
+	right: 0;
+	top: 78px;
+}
+
+/*-=-=-=-=-=-=-=-=-=- Discount Start-=-=-=-=-=-=-=-=-=--=*/
+.res-top-text{
+	height: 400px;
+	padding: 0;
+}
+.res-top-text h3{
+	font-size: 40px;
+	margin-top: 5px;
+}
+.res-dis-shape{
+	display: none;
+}
+
+}
+/*-=-=-=-=-=-=-=-=-=- 576px Start-=-=-=-=-=-=-=-=-=--=*/
+@media(max-width: 576px){
+/*-=-=-=-=-=-=-=-=-=- Header Start-=-=-=-=-=-=-=-=-=--=*/
+.res-logo{
+	width: 150px;
+}
+.res-menu ul li a{
+	font-size: 20px;
+	padding: 8px;
+}
+.menu-icon{
+	margin-left: 40px;
+}
+.menu-icon i{
+	font-size: 25px;
+}
+.menu ul li a{
+	font-size: 15px;
+	padding: 5px 0;
+	text-align: center;
+}
+.menu{
+	width: 100px;
+}
+/*-=-=-=-=-=-=-=-=-=- Popular Start-=-=-=-=-=-=-=-=-=--=*/
+
+.single-item{
+	margin-bottom: 10px;
+}
+.res-more-menu{
+	width: 150px;
+	height: 40px;
+	margin-top: 20px;
+}
+.res-more-menu p{
+     padding-top: 10px;
+     font-size: 15px;
+}
+/*-=-=-=-=-=-=-=-=-=- Discount Start-=-=-=-=-=-=-=-=-=--=*/
+.res-top-text{
+	height: 300px;
+	border:0;
+}
+.res-top-text h3{
+	font-size: 25px;
+	margin-top: 5px;
+}
+.res-top-text p{
+	font-size: 18px;
+}
+.res-order-shape{
+	display: none;
+}
+/*-=-=-=-=-=-=-=-=-=- Delivery Start-=-=-=-=-=-=-=-=-=--=*/
+.res-delivery{
+	padding-top: 60px;
+}
+.res-delivery-text h2{
+	font-size: 50px;
+}
+.res-delivery-text p{
+	font-size: 20px;
+}
+.res-delivery-button{
+	width: 200px;
+	height: 50px;
+}
+.res-delivery-button p{
+	font-size: 20px;
+}
+/*-=-=-=-=-=-=-=-=-=- Follow Start-=-=-=-=-=-=-=-=-=--=*/
+.res-follow-link a i{
+	width: 50px;
+	height: 50px;
+	font-size: 30px;
+	padding-top: 10px;
+}
+.scrl-bar{
+	width: 40px;
+	height: 40px;
+}
+.scrl-bar i{
+	font-size: 15px;
+	padding-top: 10px;
+}
+}
+/*-=-=-=-=-=-=-=-=-=-420px Start-=-=-=-=-=-=-=-=-=--=*/
+@media(max-width: 420px){
+/*-=-=-=-=-=-=-=-=-=- Header Start-=-=-=-=-=-=-=-=-=--=*/
+.res-logo{
+	width: 100px;
+}
+.res-menu ul li a{
+	font-size: 12px;
+	padding: 10px 6px;
+}
+.menu-icon{
+	margin-left: 30px;
+}
+.menu-icon i{
+	font-size: 20px;
+}
+.menu ul li a{
+	font-size: 12px;
+	padding: 3px 0;
+}
+.header-bottom-left-shape{
+	display: none;
+}
+.res-hesder-text h1{
+	font-size: 40px;
+}
+.res-hesder-text p{
+	font-size: 20px;
+}
+.res-header-bottom{
+	margin-top: 120px;
+}
+/*-=-=-=-=-=-=-=-=-=- Discount Start-=-=-=-=-=-=-=-=-=--=*/
+.res-top-text{
+	margin-top: 50px;
+    padding-bottom: 50px;
+}
+.res-follow-shape1{
+	display: none;
+}
+/*-=-=-=-=-=-=-=-=-=- Order Start-=-=-=-=-=-=-=-=-=--=*/
+.res-order-top h4{
+	font-size: 30px;
+}
+.res-order-text h3{
+	font-size: 30px;
+}
+.res-order-text p{
+	font-size: 17px;
+}
+.items{
+	padding-bottom: 40px;
+}
+/*-=-=-=-=-=-=-=-=-=- Follow Start-=-=-=-=-=-=-=-=-=--=*/
+.res-follow-text h2{
+	font-size: 50px;
+}
+.res-follow-text p{
+	font-size: 22px;
+}
+.res-follow-text h3{
+	font-size: 30px;
+}
+.res-follow-shape{
+	display: none;
+}
+/*-=-=-=-=-=-=-=-=-=- About Start-=-=-=-=-=-=-=-=-=--=*/
+.res-about-text p{
+	font-size: 20px;
+}
+.res-about-link h5{
+	margin-top: 20px;
+}
+
+}
+/*-=-=-=-=-=-=-=-=-=-320px Start-=-=-=-=-=-=-=-=-=--=*/
+@media(max-width: 320px){
+/*-=-=-=-=-=-=-=-=-=- Header Start-=-=-=-=-=-=-=-=-=--=*/
+.res-logo{
+	width: 80px;
+}
+.res-menu ul li a{
+	font-size: 10px;
+	padding: 12px 4px;
+}
+.menu ul li a{
+	font-size: 10px;
+	padding: 4px 0;
+}
+.menu{
+	top: 70px;
+}
+.res-hesder-text h1{
+	font-size: 30px;
+}
+.res-hesder-text p{
+	font-size: 17px;
+}
+/*-=-=-=-=-=-=-=-=-=- Populer Start-=-=-=-=-=-=-=-=-=--=*/
+.head-title h4{
+	font-size: 27px;
+}
+.single-item h5{
+	font-size: 20px;
+}
+.single-item span{
+	font-size: 20px;
+}
+.single-item p{
+	font-size: 12px;
+}
+/*-=-=-=-=-=-=-=-=-=- Discount Start-=-=-=-=-=-=-=-=-=--=*/
+.res-top-text h3{
+	font-size: 22px;
+}
+.res-top-text p{
+	font-size: 15px;
+}
+.res-more-menu{
+	width: 100px;
+	height: 30px;
+	margin-top: 20px;
+}
+.res-more-menu p{
+     padding-top: 12px;
+     font-size: 10px;
+}
+/*-=-=-=-=-=-=-=-=-=- Order Start-=-=-=-=-=-=-=-=-=--=*/
+.res-order-top h4{
+	font-size: 25px;
+}
+.res-order-text h3{
+	font-size: 25px;
+}
+.res-order-text p{
+	font-size: 15px;
+}
+.res-order-no{
+	width: 50px;
+	height: 50px;
+}
+.res-order-no span{
+	font-size: 25px;
+}
+/*-=-=-=-=-=-=-=-=-=- Delivery Start-=-=-=-=-=-=-=-=-=--=*/
+.res-delivery-text h2{
+	font-size: 30px;
+}
+.res-delivery-text p{
+	font-size: 16px;
+}
+.res-delivery-button{
+	width: 150px;
+	height: 40px;
+}
+.res-delivery-button p{
+	font-size: 15px;
+	padding-top: 15px;
+}
+/*-=-=-=-=-=-=-=-=-=- Follow Start-=-=-=-=-=-=-=-=-=--=*/
+.res-follow-text h2{
+	font-size: 40px;
+}
+.res-follow-text p{
+	font-size: 18px;
+}
+.res-follow-text h3{
+	font-size: 25px;
+}
+.res-follow-link a i{
+	width: 40px;
+	height: 40px;
+	font-size: 25px;
+	padding-top: 8px;
+}
+/*-=-=-=-=-=-=-=-=-=- About Start-=-=-=-=-=-=-=-=-=--=*/
+.res-about-text h3{
+	font-size: 20px;
+}
+.res-about-text p{
+	font-size: 12px;
+}
+.res-footer-text h5{
+	font-size: 15px;
+}
+.scrl-bar{
+	right: 20px;
+}
+
+}
